@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/WebCaNhan/static/css/main.65ff4b56.css",
+    "main.js": "/WebCaNhan/static/js/main.bb3c8c5f.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/WebCaNhan/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/WebCaNhan/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/WebCaNhan/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/WebCaNhan/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/WebCaNhan/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/WebCaNhan/index.html",
+    "main.65ff4b56.css.map": "/WebCaNhan/static/css/main.65ff4b56.css.map",
+    "main.bb3c8c5f.js.map": "/WebCaNhan/static/js/main.bb3c8c5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65ff4b56.css",
+    "static/js/main.bb3c8c5f.js"
+  ]
+}
